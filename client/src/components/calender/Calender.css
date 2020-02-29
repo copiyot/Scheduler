@@ -1,0 +1,9 @@
+.createTaskIcon{
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
+
+i.icon.plus:before{
+    font-size: 25px;
+}

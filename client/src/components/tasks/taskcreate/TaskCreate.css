@@ -1,0 +1,125 @@
+i.icon.trash.alternate.outline:before {
+    margin-left: 150px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+i.icon.save.outline:before {
+    margin: 5px;
+    font-size: 20px;
+}
+
+i.sync.alternate.icon:before {
+    margin-left: 470px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.reminderDropDownMenu {
+    display: inline;
+    margin-left: 200px;
+}
+
+.reminderDropDownMenu label {
+    margin-right: 5px;
+}
+
+.reminderDropDownMenu select {
+    width: 120px;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.saveDeleteIcon {
+    background-color: #E8E8E8;
+    width: 600px;
+    margin-left: 10px;
+    padding: 8px;
+}
+
+.details {
+    margin-left: 10px;
+    margin-top: 40px;
+    font-size: 17px;
+    margin-bottom: 40px;
+}
+
+.eventName-input {
+    border: 1px solid black;
+    margin-left: 10px;
+    width: 500px;
+    height: 50px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.eventName-input::placeholder {
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.location-input {
+    display: block;
+    margin-left: 10px;
+    width: 500px;
+    border: 1px solid #C8C8C8;
+    height: 25px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.location-input::placeholder {
+    padding-left: 15px;
+}
+
+.startDateForm {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.startDateForm input {
+    border: 1px solid #C8C8C8;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.startDateForm i {
+    margin-left: -25px;
+}
+
+.startDateDropDownMenu {
+    margin-left: 20px;
+    border: 1px solid #C8C8C8;
+    height: 25px;
+    width: 100px;
+    border-radius: 3px;
+}
+
+.endDateForm {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.endDateForm input {
+    border: 1px solid #C8C8C8;
+    height: 25px;
+    border-radius: 3px;
+    margin-left: 6px;
+}
+
+.endDateForm i {
+    margin-left: -25px;
+}
+
+.descriptionTextArea {
+    margin-left: 10px;
+    border: 1px solid #C8C8C8;
+    width: 500px;
+    height: 200px;
+    border-radius: 4px;
+}
+
+.descriptionTextArea::placeholder {
+    padding-left: 10px;
+    font-size: 15px;
+}

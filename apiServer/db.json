@@ -1,0 +1,30 @@
+{
+  "tasks": [
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 1
+    },
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 2
+    },
+    {
+      "eventName": "Meeting",
+      "locationName": "Seme",
+      "startDate": "1:00 AM",
+      "endDate": "1:30 AM",
+      "evenDescription": "Village Development",
+      "id": 3
+    },
+    {
+      "eventName": "Anyuola",
+      "locationName": "Bondo",
+      "startDate": null,
+      "endDate": "12:30 AM",
+      "evenDescription": "Paro Manene",
+      "id": 4
+    }
+  ]
+}

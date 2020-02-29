@@ -1,0 +1,32 @@
+.yearPicker-table {
+    font-size: 20px;
+    text-align: center;
+    border-spacing: 0em;
+    background: #273747;
+    font-family: 'Open Sans Condensed', sans-serif;
+    width: 595px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: beige;
+}
+
+.current {
+    font-weight: 100;
+    width: 198px;
+}
+
+
+.currentYear {
+    background: #088aa7b0;
+    border-radius: 3px;
+}
+
+.yearPicker-selectedYearsTr {
+    height: 35px;
+}
+
+.yearPicker-selectedYears {
+    margin: 0 150px;
+    font-weight: 100;
+}

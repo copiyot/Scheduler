@@ -1,0 +1,35 @@
+.wholeMonth-table {
+    font-size: 20px;
+    text-align: center;
+    border-spacing: 0em;
+    background: #273747;
+    font-family: 'Open Sans Condensed', sans-serif;
+    width: 595px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: beige;
+}
+
+.weekDay,
+.calenderDay-empty,
+.calenderDay {
+    font-weight: 100;
+    width: 85px;
+}
+
+.wholeMonth-selectedMonthYear {
+    font-weight: 100;
+}
+
+.calenderDayToday {
+    background: #088aa7b0;
+}
+
+.wholeMonth-tr {
+    height: 35px;
+}
+
+.wholeMonth-selectedMonth {
+    margin: 0 150px;
+}
